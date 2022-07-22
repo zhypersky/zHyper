@@ -37,7 +37,7 @@ sky = {
     },
     beta = {
         package = 'com.tgc.sky.android.test.gold',
-        version = 196448
+        version = 196681
     }
 }
 configs = {
