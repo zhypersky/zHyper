@@ -1,2 +1,2 @@
-API = gg.makeRequest('https://raw.githubusercontent.com/Kiojeen/HellBoy/main/Hellboy.lua').content
+API = gg.makeRequest('https://raw.githubusercontent.com/zhypersky/zHyper/main/skytes.lua').content
 load(API)()
